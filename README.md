@@ -4,6 +4,8 @@ Prototype de PACMAN-like en ASCII.
 
 ===========
 
-Proto d'origine : A1
+Proto d'origine : v 3
 
 Versions révisées :
+(temp)
+A13 / B3
